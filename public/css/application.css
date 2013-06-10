@@ -1,0 +1,54 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+
+
+.racer_table td.active{
+  background-color: black;
+}
+
+.racer_table td.active1 {
+  background-color: red;
+}
+
+.racer_table{
+  margin:auto;
+  margin-top: 50px;
+}
+
+.racer_table td{
+  width: 25px;
+  height: 25px;
+  background-color: gray;
+}
+
+#counter {
+
+ 
+}
+
+#click-me{
+  height: 20px;
+/*  width:  300px;
+*/  padding: 20px;
+border-radius: 10px;
+margin: auto;
+margin-top: 20px;
+  background-color: red;
+}
+
+#timer{
+  height: 20px;
+/*  width:  300px;
+*/  padding: 20px;
+border-radius: 10px;
+margin: auto;
+margin-top: 20px;
+  background-color: orange;
+}
